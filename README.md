@@ -1,0 +1,1 @@
+![](https://github.com/nilipta/android-kotlin-simple-image-capture/sample/sample.gif)
