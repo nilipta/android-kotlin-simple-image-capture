@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">camera</string>
+    <string name="take_photo">take Photo</string>
+    <string name="switch_camera">switch camera</string>
+    <string name="toggle_flash">toggle flash</string>
+    <string name="photo_mode">photo mode</string>
+    <string name="capture_failed">Photo capture failed</string>
+    <string name="save_success">Photo saved successfully</string>
+    <string name="camera_permission_required">Camera permission required</string>
 </resources>
